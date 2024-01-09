@@ -1,0 +1,15 @@
+.span1{
+    color: var(--twitter-color);
+    color: darkgreen;
+    background-color: lightgreen;
+    padding: 4px;
+    border-radius: 10px;
+}
+
+.span2{
+    color: var(--twitter-color);
+    color: red;
+    background-color: lightpink;
+    padding: 4px 8px;
+    border-radius: 10px;
+}
